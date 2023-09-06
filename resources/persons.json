@@ -1,0 +1,6 @@
+[
+    {"autor": "John Doe", "nombre": "Juan", "genero": "Masculino"},
+    {"autor": "Jane Smith", "nombre": "María", "genero": "Femenino"},
+    {"autor": "Alex Johnson", "nombre": "Carlos", "genero": "Masculino"},
+    {"autor": "Emily Brown", "nombre": "Ana", "genero": "Femenino"}
+]
