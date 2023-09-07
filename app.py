@@ -16,8 +16,7 @@ def random_name():
     objeto_nombre = random.choice(nombres)
     nombre = objeto_nombre["nombre"]
     return jsonify({"person": objeto_nombre})
-#fadavzv
-#dsgsd
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port="8088", debug=True)
     
