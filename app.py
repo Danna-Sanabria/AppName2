@@ -5,7 +5,7 @@ import random
 app = Flask(__name__)
 
 def cargar_nombres_desde_archivo():
-    with open("./persons.json", "r") as archivo:
+    with open("./resources/persons.json", "r") as archivo:
         nombres = json.load(archivo)
     return nombres
 
